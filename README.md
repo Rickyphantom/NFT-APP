@@ -119,3 +119,4 @@ my-nft-app/
 ## 라이선스
 
 MIT
+"# NFT-APP" 
