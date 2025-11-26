@@ -837,6 +837,9 @@ export default function Home() {
           <p className="text-zinc-600 dark:text-zinc-400 mb-4">
             Sepolia 테스트넷에서 NFT를 민팅하고 관리하세요
           </p>
+          <p className="text-zinc-600 dark:text-zinc-400 mb-4">
+            92113724 유선빈
+          </p>
           <div className="flex items-center gap-2 flex-wrap">
             <span className="text-sm text-zinc-500 dark:text-zinc-500">
               컨트랙트 주소:
